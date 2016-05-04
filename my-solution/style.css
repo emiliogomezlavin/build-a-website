@@ -1,0 +1,130 @@
+body {
+	background: url(https://s-media-cache-ak0.pinimg.com/736x/84/37/e4/8437e406a0f659a0a81dffa20b6b0744.jpg);
+	background-size: cover;	
+}
+
+.page {
+	background-color: white;
+	margin: 0 auto;
+	padding: 20px;
+	width: 1120px;
+	height: 800px;
+}
+.header {
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px 30px;
+	font-family: 'Lato', sans-serif;
+}
+.header li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 20px;
+}
+
+.header a {
+	text-decoration: none;	
+	color: #f39c12;
+}
+.header h1 {
+	color: #c0392b;
+	padding-left: 40px;
+}
+.header p {
+	color: #c0392b;
+}
+.main {
+	position: relative;
+	width: 950px;
+	height: 500px;
+	background-color: white;
+	margin: 0 auto;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+.main h3 {
+	right: 50px;
+	float: right;
+	border: 5px solid #34495e;
+}
+.main h2 {
+	position: absolute;
+	font-family: 'Work Sans', sans-serif;
+	color: #34495e;
+	margin-left: 20px;
+	margin-top: 90px;
+	font-size: 38px;
+	text-align: left;
+}
+.main p {
+	position: absolute;
+	color: #27ae60;
+	width: 450px;
+	font-family: 'Josefin Slab', serif;
+	text-align: justify;
+	margin-left: 20px;
+	margin-top: 200px;
+	font-size: 30px;
+}
+.footer {
+	background-color: white;
+	margin: 30px 20px;
+	text-align: center;
+	padding: 20px 30px;
+	font-family: 'Lato', sans-serif;
+}
+.footer li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 20px;
+}
+.footer a {
+	text-decoration: none;	
+	color: #c0392b;
+	font-size: 20px;
+}
+
+/* Here starts the additional CSS code for the Portfolio Sheet */
+
+.main2 {
+	background-color: white;
+	margin: 0 auto;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding: 0 20px;
+}
+.main2 h2 {
+	font-family: 'Work Sans', sans-serif;
+	color: black;
+	font-size: 38px;
+	text-align: justify;
+}
+.main2 p {
+	color: black;
+	font-family: 'Volkhov', serif;
+	text-align: justify;
+	font-size: 23px;
+}
+.main2 h3 {
+	margin-top: 80px;
+	border-top: 2px solid black;
+	color: #2980b9;
+	font-family: 'Lato', sans-serif;
+	font-size: 33px;
+	padding: 50px 30px;
+}
+.main2 .projects img {
+	margin: 0 auto;
+	border: 2px solid black;
+	margin-left: 200px; 
+	margin-bottom: 50px;
+}
+.main2 .projects {
+	margin: 100px 50px;
+}
+.main2 .projects h4 {
+	color: #c0392b;
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;	
+}
